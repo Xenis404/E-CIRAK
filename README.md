@@ -22,3 +22,5 @@ Ayrıca Bir Hesap Siteden İndirme Yapmayınız
 
 
 Resmi Site https://e-cirak.netlify.app/
+
+Uygulama releases Kısmından İndirebilirsiniz
